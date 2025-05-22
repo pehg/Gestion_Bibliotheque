@@ -12,7 +12,7 @@ Créez un environnement virtuel pour tester l'application
 
 ```shell
 cd Gestion_Bibliotheque
-python3 -m venv .venv
+python -m venv .venv
 .venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
